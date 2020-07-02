@@ -24,7 +24,7 @@ const MovieList: React.FC = () => {
     <table className="table table-bordered table-striped">
       <thead>
         <tr>
-          <th>Title</th>
+          <th>Movie Title</th>
           <th>Vote</th>
           <th />
         </tr>
